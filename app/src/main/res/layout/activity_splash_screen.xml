@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreenActivity">
+
+    <ImageView
+        android:id="@+id/imageSplash"
+        android:layout_width="match_parent"
+        android:layout_marginTop="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/splashscreenlogo" />
+
+    <TextView
+        android:id="@+id/textSplash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageSplash"
+        android:layout_marginTop="40dp"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:gravity="center_horizontal"
+        android:text="Aplikasi Makananku"
+        android:textColor="@android:color/black"
+        android:textSize="35sp" />
+
+</RelativeLayout>
