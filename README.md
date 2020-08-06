@@ -14,4 +14,7 @@ Aplikasi android yang berfungsi untuk melihat berbagai tips makanan dan mendata 
 
 ## Preview Android
 
+<img src="ss/login.jpg">
+
+
 
