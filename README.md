@@ -13,8 +13,12 @@ Aplikasi android yang berfungsi untuk melihat berbagai tips makanan dan mendata 
 8. Scroll View
 
 ## Preview Android
+<p align="center">
+<img src="ss/dashboard.jpg" width="300px" height="600px">
 
-<img src="ss/login.jpg">
+<img src="ss/login.jpg" width="300px" height="600px">
 
+<img src="ss/register.jpg" width="300px" height="600px">
+</p>
 
 
